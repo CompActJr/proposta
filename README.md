@@ -1,4 +1,4 @@
-# Propstas comerciais
+# Propostas comerciais
 
 > elaborações de propostas comerciais para sites e e sistemas webs por meio deste repositorio com o github pages
 
